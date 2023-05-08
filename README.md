@@ -6,4 +6,3 @@ Passionate about music and design.
 Located in the Washington, DC area.
 Open for work!
 
-<a href="https://d-simonson.fly.dev">Check out my portfolio!</a>
